@@ -34,6 +34,12 @@ Base Network: 192.168.1.0/26
 | Admin / IT       | 10   | 192.168.1.0     | 192.168.1.1 – 62    | 192.168.1.1   |
 | Finance / HR     | 20   | 192.168.1.64    | 192.168.1.65 – 126  | 192.168.1.65  |
 | Customer Service | 30   | 192.168.1.128   | 192.168.1.129 – 190 | 192.168.1.129 |
+----
+
+## Topology
+
+<img width="1073" height="529" alt="image" src="https://github.com/user-attachments/assets/b3c3e8d4-cc50-4103-b92b-736e65886448" />
+
 
 ---
 
